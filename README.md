@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-<!--
-**vkazumi/vkazumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://imgur.com/DeHQfSL
 
-Here are some ideas to get you started:
+![Image](https://i.imgur.com/DeHQfSL.png)
+
+
 
 - 🔭 I’m currently working at Atento as chat attendant.
 - 🌱 I’m currently learning JavaScript
